@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hi there, I'm Ritik 👋
+### Hi there, I'm Prakash 👋
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakash-choudhary-0a9769aa/)](https://www.linkedin.com/in/prakash-choudhary-0a9769aa)
 
   
