@@ -7,6 +7,9 @@
 <a href="https://github.com/prakashseervi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashseervi&show_icons=true&theme=dracula" alt="Martin's GitHub Stats" />
 </a>
+  
+  
+  <p><img align="left" width=380 src="https://github-readme-stats.vercel.app/api?username=prakashseervi&count_private=true&theme=dark" /> <img align="right" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=prakashseervi&theme=dracula" /></p>
 
 </div>
 
