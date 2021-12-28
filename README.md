@@ -5,7 +5,7 @@
 
   
 <a href="https://github.com/prakashseervi">
- <img align="left" width=380 src="https://github-readme-stats.vercel.app/api?username=prakashseervi&count_private=true&theme=dark" /> <img align="right" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=prakashseervi&theme=dracula" />
+ <img align="left" width=380 src="https://github-readme-stats.vercel.app/api?username=prakashseervi&count_private=true&theme=dracula" /> <img align="right" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=prakashseervi&theme=dracula" />
 
 </a>
   
