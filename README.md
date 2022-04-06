@@ -9,13 +9,13 @@
  
   
 <a href="https://github.com/prakashseervi">
- <img align="left" width=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashseervi&theme=dracula&langs_count=4" />
+ <img align="center" width=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashseervi&theme=dracula&langs_count=4" />
  </a>
  <a href="https://github.com/prakashseervi">
- <img align="left" width=325 src="https://github-readme-stats.vercel.app/api?username=prakashseervi&count_private=true&theme=dracula" /> 
+ <img align="center" width=325 src="https://github-readme-stats.vercel.app/api?username=prakashseervi&count_private=true&theme=dracula" /> 
  </a>
  <a href="https://github.com/prakashseervi">
-  <img align="left" width=325 src="https://github-readme-streak-stats.herokuapp.com/?user=prakashseervi&theme=dracula" />
+  <img align="center" width=325 src="https://github-readme-streak-stats.herokuapp.com/?user=prakashseervi&theme=dracula" />
 
 </a>
   
