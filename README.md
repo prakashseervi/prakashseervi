@@ -1,10 +1,14 @@
 <div align="center">
   
-### Hi there, I'm Prakash 👋
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakash-choudhary-0a9769aa/)](https://www.linkedin.com/in/prakash-choudhary-0a9769aa)
+## Hi Everyone 👋 I am Prakash Seervi 🔭
+- 💪 Currently working as a Tech Lead.
+- 💼 5+ years of experience as full stack enginner.  
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakash-choudhary-0a9769aa/)](https://www.linkedin.com/in/prakash-choudhary-0a9769aa)
 
+ 
   
 <a href="https://github.com/prakashseervi">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashseervi&theme=dracula&langs_count=4" />
  <img align="left" width=380 src="https://github-readme-stats.vercel.app/api?username=prakashseervi&count_private=true&theme=dracula" /> <img align="right" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=prakashseervi&theme=dracula" />
 
 </a>
