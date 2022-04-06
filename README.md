@@ -1,5 +1,7 @@
 <div>
-## Hi Everyone 👋 I am Prakash Seervi 🔭 ![Visitor Count](https://profile-counter.glitch.me/prakashseervi/count.svg)
+## Hi Everyone 👋 I am Prakash Seervi 🔭  
+ 
+ ![Visitor Count](https://profile-counter.glitch.me/prakashseervi/count.svg)
 
  -💪 Currently working as a Tech Lead. <br/>
  -💼 5+ years of experience as full stack enginner.  <br/>
