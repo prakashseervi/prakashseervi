@@ -39,7 +39,7 @@
  <img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
  
  
- <div>
+ <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=prakashseervi&column=6"/>
@@ -50,6 +50,7 @@
 <!-- <a href="https://github.com/prakashseervi">
  <img align="center" width=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashseervi&theme=dracula&langs_count=4" />
  </a> -->
+ <div align="center">
  <a href="https://github.com/prakashseervi">
  <img align="center" width=325 src="https://github-readme-stats.vercel.app/api?username=prakashseervi&count_private=true&theme=dracula" /> 
  </a>
@@ -57,7 +58,10 @@
   <img align="center" width=325 src="https://github-readme-streak-stats.herokuapp.com/?user=prakashseervi&theme=dracula" />
 
 </a>
- 
+   <div/>
+  <br/>
+  
+  
  ![Prakash's github activity graph](https://activity-graph.herokuapp.com/graph?username=prakashseervi&theme=dracula)
   
   <div/>
