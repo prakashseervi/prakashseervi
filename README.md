@@ -44,7 +44,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=prakashseervi&column=6"/>
   </a>
-   <div/>
+ <div/>
   <br/>
  
   
@@ -52,21 +52,20 @@
  <img align="center" width=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashseervi&theme=dracula&langs_count=4" />
  </a> -->
  <div align="center">
- <a href="https://github.com/prakashseervi">
- <img align="center" width=325 src="https://github-readme-stats.vercel.app/api?username=prakashseervi&count_private=true&theme=dracula" /> 
- </a>
+     <a href="https://github.com/prakashseervi">
+       <img align="center" width=325 src="https://github-readme-stats.vercel.app/api?username=prakashseervi&count_private=true&theme=dracula" /> 
+     </a>
  <a href="https://github.com/prakashseervi">
   <img align="center" width=325 src="https://github-readme-streak-stats.herokuapp.com/?user=prakashseervi&theme=dracula" />
-
-</a>
-   <div/>
+  </a>
+ <div/>
   <br/>
   
   <div align="center">
    
   ![Prakash Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashseervi&layout=compact&theme=radical)
 
-    <div/>   
+<!--     <div/>    -->
   <br/>
    
    
