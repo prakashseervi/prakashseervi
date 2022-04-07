@@ -42,7 +42,7 @@
  <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prakashseervi&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=prakashseervi&column=6"/>
   </a>
 </div>
  
@@ -57,6 +57,8 @@
   <img align="center" width=325 src="https://github-readme-streak-stats.herokuapp.com/?user=prakashseervi&theme=dracula" />
 
 </a>
+ 
+ ![Prakash's github activity graph](https://activity-graph.herokuapp.com/graph?username=prakashseervi&theme=dracula)
   
   <div/>
  
