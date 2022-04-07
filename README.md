@@ -44,7 +44,8 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=prakashseervi&column=6"/>
   </a>
-</div>
+   <div/>
+  <br/>
  
   
 <!-- <a href="https://github.com/prakashseervi">
@@ -61,7 +62,14 @@
    <div/>
   <br/>
   
-  
+  <div align="center">
+   
+  ![Prakash Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashseervi&layout=compact&theme=radical)
+
+    <div/>   
+  <br/>
+   
+   
  ![Prakash's github activity graph](https://activity-graph.herokuapp.com/graph?username=prakashseervi&theme=dracula)
   
   <div/>
