@@ -6,7 +6,7 @@
  <img alt="Hit" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprakashseervi1212%2Fhit-counter" />
  
  -💪 Currently working as a Tech Lead. <br/>
- -💼 5+ years of experience as full stack enginner.  <br/>
+ -💼 5+ years of experience as full stack developer <br/>
  -📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Prakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakash-choudhary-0a9769aa/)](https://www.linkedin.com/in/prakash-choudhary-0a9769aa/)
  
 
